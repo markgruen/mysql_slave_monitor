@@ -1,6 +1,6 @@
 #!/bin/bash 
-#emails="mgruenberg@mdlive.com"
-emails="mgruenberg@mdlive.com,dyoung@mdlive.com,cpastore@mdlive.com"
+#emails="mgruenberg@test.com"
+emails="mgruenberg@test.com,test1@test.com,test2@test.com"
 
 send_email=0
 
